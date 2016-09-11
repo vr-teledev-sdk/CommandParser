@@ -1,8 +1,0 @@
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/bin/Debug/Newtonsoft.Json.dll
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/bin/Debug/System.Net.Http.Formatting.dll
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/bin/Debug/Telegram.Bot.dll
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/bin/Debug/CommandParser.exe.mdb
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/bin/Debug/CommandParser.exe
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/obj/x86/Debug/CommandParser.exe
-/home/korolyov/telegram/CommandParser/CommandParser/CommandParser/obj/x86/Debug/CommandParser.exe.mdb
